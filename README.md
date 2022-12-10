@@ -1,1 +1,1 @@
-# test_task_cs_go
+# Test Task CSGO
